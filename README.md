@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 저는 이보람입니다.</h1>
+<h1 align="center">BoramLee</h1>
 
 - 3차 프로젝트(팀) [[온라인 공예 클래스 트렌드 분석]](https://github.com/erdosnumber0/Craft_Trend)
 

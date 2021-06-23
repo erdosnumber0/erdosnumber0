@@ -1,10 +1,10 @@
 <h1 align="center">BoramLee</h1>
 
-- 3차 프로젝트(팀) [[온라인 공예 클래스 트렌드 분석]](https://github.com/erdosnumber0/Craft_Trend)
+- Project 3(team) [[온라인 공예 클래스 트렌드 분석]](https://github.com/erdosnumber0/Craft_Trend)
 
-- 2차 프로젝트(팀) [[T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발]](https://github.com/erdosnumber0/project2)
+- Project 2(team) [[T 국가 세관 신고 데이터 기반 위법물 탐지 서비스 개발]](https://github.com/erdosnumber0/project2)
 
-- 1차 프로젝트(개인) [[fifa19 게임 데이터셋을 이용한 축구선수 Wage 예측]](https://github.com/erdosnumber0/project_fifa)
+- Project 1(personal) [[fifa19 게임 데이터셋을 이용한 축구선수 Wage 예측]](https://github.com/erdosnumber0/project_fifa)
 
 
 <h3 align="left">Languages and Tools:</h3>

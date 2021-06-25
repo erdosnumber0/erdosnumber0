@@ -1,7 +1,7 @@
 ## About me
 Just Do it!
 
-<div align=center> 
+
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:erdosnumber0@gmail.com) 
 [![instagram Badge](https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/a_midnight9)](mailto:https://www.instagram.com/a_midnight9) 
@@ -17,14 +17,8 @@ Just Do it!
 - Project 1(personal) [[fifa19 게임 데이터셋을 이용한 축구선수 Wage 예측]](https://github.com/erdosnumber0/project_fifa)
 
 
----------------------------------------------------------------------------
-<div align=center> 
+## Stack
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/PYTHON-F7DF1E?style=for-the-badge&logo=python&logoColor=black">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/flask-5468FF?style=for-the-badge&logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-</div>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdosnumber0&show_icons=true&locale=en&layout=compact" alt="erdosnumber0" /></p>
-
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=erdosnumber0&show_icons=true&locale=en" alt="erdosnumber0" /></p>

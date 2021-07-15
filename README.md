@@ -5,7 +5,7 @@
 ✔️ &nbsp; 파이썬과 만난지 7개월 :two_hearts: \
 ✔️ &nbsp; 정답으로 관통하는, 명쾌한 코딩 몇 줄이 즐겁다고 생각합니다. \
 ✔️ &nbsp; 배우는 단계이지만, GraphDB가 재밌어요. \
-✔️ 제대로 된 Data Engineer를 꿈꿉니다. 
+✔️ &nbsp; 제대로 된 Data Engineer를 꿈꿉니다. 
 
 
   

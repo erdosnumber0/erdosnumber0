@@ -8,12 +8,6 @@
 ✔️ &nbsp; 제대로 된 <b>Data Engineer</b>를 꿈꿉니다. :runner:
 
 
-  
-
-<a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/a_midnight9"><img src="https://img.shields.io/badge/-@a__midnight9-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-
 
 ## Projects
 
@@ -34,3 +28,9 @@
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=erdosnumber0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdosnumber0&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+  
+  
+<a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/a_midnight9"><img src="https://img.shields.io/badge/-@a__midnight9-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>

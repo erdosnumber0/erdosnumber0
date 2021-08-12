@@ -2,7 +2,7 @@
 
 수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 erdos입니다. :smiley:
 
-✔️ &nbsp; 파이썬과 만난 지 7개월 :two_hearts: \
+✔️ &nbsp; 파이썬과 만난 지 8개월 :two_hearts: \
 ✔️ &nbsp; 정답을 관통하는, 명쾌한 코딩 몇 줄이 즐거워요. \
 ✔️ &nbsp; 수학적이고 관계적인 GraphDB에 관심이 있습니다. \
 ✔️ &nbsp; 제대로 된 <b>Data Engineer</b>를 꿈꿉니다. :runner:

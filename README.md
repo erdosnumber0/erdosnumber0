@@ -32,5 +32,4 @@
   
   
 <a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/a_midnight9"><img src="https://img.shields.io/badge/-@a__midnight9-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>

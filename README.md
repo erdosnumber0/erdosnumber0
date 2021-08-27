@@ -1,6 +1,8 @@
 ## About me..
 
 수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 erdos입니다. :smiley:
+ Stop dreaming. Start living. - '월터의 상상은 현실이 된다'
+
 
 ✔️ &nbsp; 파이썬과 만난 지 8개월 :two_hearts: \
 ✔️ &nbsp; 정답을 관통하는, 명쾌한 코딩 몇 줄이 즐거워요. \

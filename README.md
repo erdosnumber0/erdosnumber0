@@ -13,6 +13,7 @@
 
 
 ## Projects
+- Project 4(personal) JD 프로젝트 #나를위한
 
 - Project 3(team) [[온라인 공예 클래스 트렌드 분석]](https://github.com/erdosnumber0/Craft_Trend)
 

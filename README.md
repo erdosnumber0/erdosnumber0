@@ -37,3 +37,11 @@
   
 <a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>
+  
+## :books: 10월 미션
+  - 클론코딩 포함 프로젝트 진행
+  - 빅분기 클리어
+  - 즐겨찾기 정리 
+  - 강의 정리, 리뷰
+  - 프로그래머스 LV3
+  

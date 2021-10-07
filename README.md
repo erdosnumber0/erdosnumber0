@@ -46,4 +46,4 @@
   - 강의 정리, 리뷰
   - 프로그래머스 LV3
   - Language Python % 늘리기
-  
+  - ~~VS code 익숙해지기~~

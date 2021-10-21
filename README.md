@@ -30,17 +30,11 @@
 
 ## :books: 10월 미션
   - 클론코딩 포함 프로젝트 진행
-  - ~~빅분기 클리어(시험은 망......)~~
   - readme stack 정리 또는 ~~노션 포트폴리오 클리어~~
-  - ~~즐겨찾기 정리~~
   - 강의 정리, 리뷰
   - 프로그래머스 LV3
   - Language Python % 늘리기
-  - ~~VS code 익숙해지기~~
-  
-  
-<br>
-  
+   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=erdosnumber0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdosnumber0&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
   
   

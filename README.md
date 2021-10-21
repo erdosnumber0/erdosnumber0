@@ -28,22 +28,24 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
 
 
-<br>
-  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=erdosnumber0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdosnumber0&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
-
-  
-  
-<a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>
-  
 ## :books: 10월 미션
   - 클론코딩 포함 프로젝트 진행
-  - ~~빅분기 클리어~~(시험은 망......)
-  - readme stack 정리 또는 노션 클리어
+  - ~~빅분기 클리어(시험은 망......)~~
+  - readme stack 정리 또는 ~~노션 포트폴리오 클리어~~
   - ~~즐겨찾기 정리~~
   - 강의 정리, 리뷰
   - 프로그래머스 LV3
   - Language Python % 늘리기
   - ~~VS code 익숙해지기~~
+  
+  
+<br>
+  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=erdosnumber0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdosnumber0&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+  
+  
+<a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>
+  
+

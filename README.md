@@ -1,12 +1,13 @@
 ## About me..
 
-수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 erdos입니다. :smiley: \
+수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 **이보람**입니다. :smiley: \
 \
  *Stop dreaming. Start living. - 'The Secret Life of Walter Mitty'*     
 
 
-✔️ &nbsp; 파이썬과 만난 지 8개월 :two_hearts: \
-✔️ &nbsp; 정답을 관통하는, 명쾌한 코딩 몇 줄이 즐거워요. \
+✔️ &nbsp; 호기심이 많아 배우는 것을 즐깁니다. \
+✔️ &nbsp; 함께함으로써 더 많은 것을 할 수 있다고 생각합니다. \
+✔️ &nbsp; 정답을 관통하는, 누군가의 명쾌한 코딩 몇 줄이 즐거워요. \
 ✔️ &nbsp; 수학적이고 관계적인 GraphDB에 관심이 있습니다. \
 ✔️ &nbsp; <b>Data Engineer</b>를 꿈꿉니다. :runner:
 

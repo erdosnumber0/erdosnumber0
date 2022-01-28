@@ -4,8 +4,6 @@
 \
  *Stop dreaming. Start living. - 'The Secret Life of Walter Mitty'*     
 
-
-✔️ &nbsp; 호기심이 많아 배우는 것을 즐깁니다. \
 ✔️ &nbsp; 함께함으로써 더 많은 것을 할 수 있다고 생각합니다. \
 ✔️ &nbsp; 정답을 관통하는, 누군가의 명쾌한 코딩 몇 줄이 즐거워요. \
 ✔️ &nbsp; 수학적이고 관계적인 GraphDB에 관심이 있습니다. \

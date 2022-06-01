@@ -1,4 +1,4 @@
-[:gift:**Erdos의 저장소**]
+:gift:**Erdos's archive**
 
 ## About me..
 

@@ -1,4 +1,4 @@
-## Erdos의 저장소
+**:gift:Erdos의 저장소**
 
 ## About me..
 

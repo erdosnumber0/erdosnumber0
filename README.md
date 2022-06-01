@@ -1,3 +1,5 @@
+## Erdos의 저장소
+
 ## About me..
 
 수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 **이보람**입니다. :smiley: \
@@ -34,7 +36,6 @@
 
 ## Connect with Me 
 <a href="mailto:erdosnumber0@gmail.com"><img src="https://img.shields.io/badge/-erdosnumber0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://velog.io/@erdosnumber0"><img src="https://img.shields.io/badge/-velog @erdosnumber0-20B2AA?style=flat&logo=blog&logoColor=white"/></a>
 
 
   

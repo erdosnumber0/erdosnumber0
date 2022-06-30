@@ -1,5 +1,3 @@
-:gift:**Erdos's archive**
-
 ## About me..
 
 수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 **이보람**입니다. :smiley: \

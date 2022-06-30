@@ -21,7 +21,7 @@
 
 
 
-## Tech Stack
+## Stacks
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)

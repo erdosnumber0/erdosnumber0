@@ -1,7 +1,5 @@
 ## About me..
 
-수학 문제 풀듯, 보드게임 하듯, 즐겁게 코딩하고픈 **이보람**입니다. :smiley: \
-\
  *Stop dreaming. Start living. - 'The Secret Life of Walter Mitty'*     
 
 ✔️ &nbsp; 함께함으로써 더 많은 것을 할 수 있다고 생각합니다. \
